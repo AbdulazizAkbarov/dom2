@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.incre {
+    background-color: #01301C;  
+    border-radius: 50%;
+    border: none;
+    margin-bottom: 45px;
+    width: 200px;
+    height: 200px;
+    margin-left: 740px;
+    box-shadow: 0 0 5px 5px #36D795;
+    position: relative;
+    margin-top: 100px;
+}
+
+.wrap {
+    background-image: url('./img/index.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -100px;
+    margin-left: -50px;
+    margin-right: -50px;
+    position: relative; 
+}
+
+.delet {
+    background-color: #01301C;
+    width: 120px;
+    height: 35px;
+    border: none;
+    border-radius: 15px;
+    position: absolute;
+    left: 780px;
+    top: 470px;
+    font-size: 18px;
+    color:antiquewhite;
+    align-items: center;
+}
+
+.yozuv {
+    font-size: 75px;
+    font-family: sans-serif;
+    color: white;
+    padding-left: 51%;
+    padding-top: 300px;
+
+}
+
+.dec {
+    background-color: #01301C;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top: 670px;
+    left: 790px;
+    box-shadow: 0 0 5px 5px #36D795;
+    
+}
+    .incre img{
+    width: 80px;
+    position: absolute;
+    top: 40px;
+    left:60px;
+
+}
+
+.dec img{
+
+    width: 70px;
+ 
+
+
+}
+
